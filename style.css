@@ -1,0 +1,17 @@
+.exercise {
+  display: flex;
+  flex-direction: column;
+}
+.exercise a {
+  padding: 10px;
+  font-size: 20px;
+}
+address {
+  font-style: normal;
+}
+
+.wrapper-ex2 h1 {
+  color: yellow;
+  padding: 30px;
+  background-color: blue;
+}
