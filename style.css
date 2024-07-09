@@ -10,8 +10,11 @@ address {
   font-style: normal;
 }
 
-.wrapper-ex2 h1 {
-  color: yellow;
+.wrapper-ex2 {
   padding: 30px;
   background-color: blue;
+}
+
+.wrapper-ex2 h1 {
+  color: yellow;
 }
